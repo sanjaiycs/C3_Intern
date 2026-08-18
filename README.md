@@ -74,6 +74,3 @@ rather than splitting indiscriminately on every " - ".
 Input:
 s Searching – Sorting – Hashing – Graph Traversal Output:
 s ["Searching", "Sorting", "Hashing", "Graph Traversal"]
-e Input:
-graph traversal - Breadth-first Search - Depth-first Search Output:
-g ["Graph Traversal", "Breadth-First Search", "Depth-Fir...
