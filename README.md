@@ -202,3 +202,7 @@ Useful flags:
 - **Benefit:** Prevents large-scale syllabus-to-textbook mapping runs from failing because of temporary provider limits.
 
 ---
+
+
+![image alt](https://github.com/sanjaiycs/C3_Intern/blob/e061fb2fc8808bb9decfc09827d26082d92ec37f/parsing.png)
+
