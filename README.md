@@ -1597,7 +1597,11 @@ No license information was supplied with the uploaded project files, so this REA
 The syllabus and textbook PDFs may be subject to their respective copyright and institutional distribution rules. Use the system only with materials you are authorized to access and process.
 
 ---
-
+## Screenshots
+![image alt](https://github.com/sanjaiycs/C3_Intern/blob/47e95b67b2d56d4cfdcdf8f8defc6d27f24d8db9/output.png)
+![image alt](https://github.com/sanjaiycs/C3_Intern/blob/47e95b67b2d56d4cfdcdf8f8defc6d27f24d8db9/verification.png)
+![image alt](https://github.com/sanjaiycs/C3_Intern/blob/47e95b67b2d56d4cfdcdf8f8defc6d27f24d8db9/omniroute.png)
+---
 ## Summary
 
 This project turns:
